@@ -52,11 +52,6 @@
 | **Edge & Cloud** | Cloudflare Workers, Cloudflare Tunnels, Docker Compose, PWA Architecture |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wpfyorg&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Arnab's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpfyorg&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
   <a href="https://github.com/wpfyorg">
     <img src="https://streak-stats.demolab.com/?user=wpfyorg&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak Stats" />
   </a>
